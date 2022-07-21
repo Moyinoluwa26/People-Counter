@@ -1,0 +1,47 @@
+
+body {
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+    background-color : green;
+    position:relative;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+h2{
+    font-size: 90px;
+    text-align: center;
+}
+#increase{
+    margin : 5px auto ;
+    display: flex;
+    border : none;
+    width : 100px;
+    height : 30px;
+    padding : 7px 2px 0px 10px ;
+    border-radius: 3px;
+    color : white ;
+    background-color: red;
+}
+#save-btn{
+    margin : 5px auto ;
+    display: flex;
+    border : none;
+    width : 100px;
+    height : 30px;
+    justify-content: center;
+    padding-top: 7px;
+    border-radius: 3px;
+    color : white ;
+    background-color: purple;
+}
+#welcome-El{
+text-align: center;
+margin-top: 100px;
+font-size: 20px;
+}
