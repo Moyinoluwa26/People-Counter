@@ -7,7 +7,7 @@ function increment() {
 }
 let Depp = document.getElementById("welcome-El")
 function save(){
-    Depp.innerText += " " + count + " " + ",";
+    Depp.textContent +=  count + " - ";
     Dexpr.innerText = 0;
-    count = 0 ;
+    count = 0;
 }
