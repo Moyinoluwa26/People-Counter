@@ -45,3 +45,30 @@ text-align: center;
 margin-top: 100px;
 font-size: 20px;
 }
+#mtn1{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+#mtn2{
+    color: white;
+    text-align: center;
+    font-size: 30px
+}
+#mtn3{
+    color: white;
+    text-align: center;
+    font-size: 30px
+}
+#oando-btn{
+    margin : 5px auto ;
+    display: flex;
+    border : none;
+    width : 100px;
+    height : 30px;
+    justify-content: center;
+    padding-top: 7px;
+    border-radius: 3px;
+    color : white ;
+    background-color:black;
+}
